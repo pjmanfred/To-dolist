@@ -1,0 +1,17 @@
+{
+"name" : "todo-list",
+" short name" : " todo",
+"theme_color" :"#ffe08a",
+"background_color" : "#ffe08a",
+"display" : " standalone",
+"orientacion": "portraid",
+"scope": "./",
+"star_url": "./",
+"icons": [
+    {
+        "src":"./imagen_icon.png",
+        "type": "image/png",
+        "size":"512x512"
+    }
+    ]
+}
